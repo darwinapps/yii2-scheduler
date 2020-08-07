@@ -1,0 +1,29 @@
+{
+    "name": "jeremyltn/yii2-scheduler",
+    "type": "yii2-extension",
+    "description": "Allows scheduling of Yii console commands.",
+    "keywords": ["yii2", "schedule", "console", "scheduler", "task"],
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/jeremyltn/yii2-scheduler/issues",
+        "wiki": "https://github.com/jeremyltn/yii2-scheduler/wiki/",
+        "source": "https://github.com/jeremyltn/yii2-scheduler"
+    },
+    "authors": [
+        {
+            "name": "Jeremy Litten",
+            "email": "jeremy.litten@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "jeremyltn\\scheduler\\": ""
+        }
+    },
+    "extra": {
+        "bootstrap": "jeremyltn\\scheduler\\Bootstrap"
+    }
+}
