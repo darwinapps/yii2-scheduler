@@ -1,13 +1,13 @@
 {
-    "name": "jeremyltn/yii2-scheduler",
+    "name": "darwinapps/yii2-scheduler",
     "type": "yii2-extension",
     "description": "Allows scheduling of Yii console commands.",
     "keywords": ["yii2", "schedule", "console", "scheduler", "task"],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/jeremyltn/yii2-scheduler/issues",
-        "wiki": "https://github.com/jeremyltn/yii2-scheduler/wiki/",
-        "source": "https://github.com/jeremyltn/yii2-scheduler"
+        "issues": "https://github.com/darwinapps/yii2-scheduler/issues",
+        "wiki": "https://github.com/darwinapps/yii2-scheduler/wiki/",
+        "source": "https://github.com/darwinapps/yii2-scheduler"
     },
     "authors": [
         {
